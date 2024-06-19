@@ -4,7 +4,6 @@
 
 - [![Blog](https://img.shields.io/badge/Blog-gitorko.github.io-brightgreen)](https://gitorko.github.io/)
 - [![Linkedin follow @arjunsurendra](https://img.shields.io/badge/-gitorko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arjunsurendra/)](https://www.linkedin.com/in/arjunsurendra/)
-- [![Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dgitorko%26type%3Dpatrons&style=for-the-badge)](https://www.patreon.com/gitorko)
 
 <p align="left">
     <img alt="gitorko" src="https://github-profile-trophy.vercel.app/?username=gitorko"/>
